@@ -8,7 +8,7 @@
 
 ⬇️ Follow the steps below to achieve this look ⬇️</h3>
 
-![alt text](images\image-2.png)
+![alt text](images/image-2.png)
 
 # Features
 - Transparent custom themes with gradient sharing
@@ -94,19 +94,19 @@ Natsumi Browser needs to be installed before you can install Natsumi Append.
 
 **1.** Install [fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) to your browser. 
    - Copy these files and directories from the repo into the Chrome folder for your profile:
-![alt text](images\image.png)
+![alt text](images/image.png)
 
    - Your Chrome folder should look like this:
   
-      ![alt text](images\image-3.png)
+      ![alt text](images/image-3.png)
 
    - Copy these files and directories from the repo into the installation location for your browser.
    (The same location as Floorp.exe etc.)
-![alt text](images\image-1.png)
+![alt text](images/image-1.png)
 
    - Your installation directory should have both the `defaults` folder and the `config.js` file in the same location as the program binary (e.g. the '.exe' file)
 
-      ![alt text](images\image-4.png) 
+      ![alt text](images/image-4.png) 
 
    **Flatpak users**: You may need to follow steps 1 and 2 on
    [here](https://github.com/MrOtherGuy/fx-autoconfig/issues/48#issuecomment-3315929253), but replace
@@ -215,7 +215,7 @@ folder. This can be followed up with `git pull` from time-to-time.
 
 `[ Sidebars - Bookmarks toolbar items - 3 Spacers - Back - Reload - Forward - URL Bar - Downloads - Add-ons - 3 Spacers ]`
 
-![alt text](images\image-5.png)
+![alt text](images/image-5.png)
 - Press "**Ctrl+Shift+B**" to hide the Bookmark Bar again
 
 ### Status Bar
@@ -224,14 +224,14 @@ folder. This can be followed up with `git pull` from time-to-time.
   
 `[ New Tab - Workspaces - Settings ]`
 
-![alt text](images\image-6.png)
+![alt text](images/image-6.png)
 
 >[!Note]
 > - The Status Bar is located in the bottom left of the browser when customizing the Toolbar.
 > - Sometimes the Status bar needs to be toggled on/off to display properly. 
 > - Toggle the Status bar with the context menu
 > 
->   ![alt text](images\image-8.png)
+>   ![alt text](images/image-8.png)
 
 <br/>
 
