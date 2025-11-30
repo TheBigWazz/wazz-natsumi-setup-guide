@@ -254,7 +254,7 @@ folder. This can be followed up with `git pull` from time-to-time.
 - Select "**Change Icon**" in Properties window
 - Browse to and select the icon you downloaded earlier
 
-Setting the custom icon this way will allow the custom icon to be displayed in the Windows Taskbar, even when pinned.
+Setting the custom icon this way allows the new icon to be shown in the Taskbar, even when pinned.
 
 ### Linux
 - Save an icon from this repo
