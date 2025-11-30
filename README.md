@@ -185,10 +185,10 @@ folder. This can be followed up with `git pull` from time-to-time.
     - Import `natsumi-gradient.json` from this repo
     - ☑️Check the box for "**Enable translucency effect**"
 
-      > [!Note]
-      > - Natsumi custom themes have 4 different states- 2 themes for Light Mode and 2 for Dark Mode.
-      > - Make sure you import the gradient file under the correct state you want to use. 
-      > - (**e.g.** Pick your workspace (or all workspaces) then select Dark Mode icon (moon) and pick state 1 or 2, then import the gradient.)
+    > [!Note]
+    > - Natsumi custom themes have 4 different states- 2 themes for Light Mode and 2 for Dark Mode.
+    > - Make sure you import the gradient file under the correct state you want to use. 
+    > - (**e.g.** Pick your workspace (or all workspaces) then select Dark Mode icon (moon) and pick state 1 or 2, then import the gradient.)
 
   - Scroll to "**Sidebar & Tabs**"
     - Select your desired Tab design
