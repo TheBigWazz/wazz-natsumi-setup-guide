@@ -213,7 +213,7 @@ folder. This can be followed up with `git pull` from time-to-time.
 - Press "**Ctrl+Shift+B**" to display the Bookmark bar temporarily
 - Click and drag these items into the Toolbar following this order:
 
-`[ Sidebars - Bookmarks toolbar items - 3 Spacers - Back - Reload - Forward - URL Bar - Downloads - Add-ons - 3 Spacers ]`
+`[ Sidebars - Bookmarks - 3 Spacers - Back - Reload - Forward - URL Bar - Downloads - Add-ons - 3 Spacers ]`
 
 ![alt text](images/image-5.png)
 - Press "**Ctrl+Shift+B**" to hide the Bookmark Bar again
